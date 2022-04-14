@@ -1,0 +1,52 @@
+id: PDCEE91CE
+initial_creation_type: input
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA23660
+  instance_id: http://purl.bdrc.io/resource/IE23660
+  collection_id: http://purl.bdrc.io/resource/PR0ET001
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - སྐུ་གསུམ་ངོ་སྤྲོད་ཀྱི་རྣམ་པར་བཤད་པ་མདོ་རྒྱུད་བསྟན་པ་མཐའ་དག་གི་ཨེ་ཝམ་ཕྱག་རྒྱ།
+  alt_title:
+    en-x-mixed:
+    - 'sku gsum no sprod kyi rnam par bsad pa mdo rgyud bstan pa mtha'' dag gi e wam
+      phyag rgya : a detailed exegesis of the sku gsum no sprod instruction of karma-paksi'
+  author: http://purl.bdrc.io/resource/P385
+  publisher: DharmaDownload
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    25efdb12f05c4b69b002599517574fab:
+      title: ༄༅།་།ཨེ་ཝཾ་ཕྱག་རྒྱ་བཞུགས་སོ།་།སྐུ་གསུམ་ངོ་སྤྲོད་ཀྱི་རྣམ་པར་བཤད་པ་མདོ་རྒྱུད་བསྟན་པ་མཐའ་དག་གི་ཨེ་ཝཾ་ཕྱག་རྒྱ་བཞུགས་སོ།་།
+      volume_number: 2
+      base_file: UT23660_002_0000.txt
+      reference: http://purl.bdrc.io/resource/VLD2A97956AB1A367A
+      image_group: null
+      quality: null
+    c9cf5120cc224ac58c93de2d5f7ebf05:
+      title: ༄༅།་།གཉིས་པ་དེ་ཉིད་ཉམས་སུ་ལེན་པ་ལ།སྨིན་པར་བྱེད་པ་དབང་བསྐུར་བའི་ཚུལ་དང༌།གྲོལ་བར་བྱེད་པ་ལམ་བསྒོམ་པའོ།་།དང་པོ་ལ་དབང་ཇི་ལྟར་བསྐུར་
+      volume_number: 3
+      base_file: UT23660_003_0000.txt
+      reference: http://purl.bdrc.io/resource/VLAB5D98AC9CBFF655
+      image_group: null
+      quality: null
+    53595cc9537c4e6c9a910dc552ee0c22:
+      title: ༄༅།་།གཉིས་པ་སྲིད་པ་སྡུད་པའི་ཚུལ་ལ།སྡུད་པའི་ཚུལ་དངོས་དང༌།རྩ་རླུང་གི་གནད་བཅིངས་པ་ན་སྡུད་པ་འགོག་སྟེ་འཆི་མེད་སྒྲུབ་ཚུལ་ལོ།་།དང་པོ་
+      volume_number: 4
+      base_file: UT23660_004_0000.txt
+      reference: http://purl.bdrc.io/resource/VL3EE77F4239EDE6D9
+      image_group: null
+      quality: null
+    fae9c6aaa937462980089231fdf555d5:
+      title: ༄༅།་།ཨེ་ཝཾ་ཕྱག་རྒྱ་བཞུགས་སོ།་།སྐུ་གསུམ་ངོ་སྤྲོད་ཀྱི་རྣམ་པར་བཤད་པ་མདོ་རྒྱུད་བསྟན་པ་མཐའ་དག་གི་ཨེ་ཝཾ་ཕྱག་རྒྱ་བཞུགས་སོ།་།
+      volume_number: 1
+      base_file: UT23660_001_0000.txt
+      reference: http://purl.bdrc.io/resource/VL5E657DA944CA39E8
+      image_group: null
+      quality: null
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW23660
+  - http://purl.bdrc.io/resource/W23660
+created_at: '2021-12-22T11:09:20.115247'
+last_modified_at: '2021-12-22T11:09:20.115254'
